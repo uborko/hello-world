@@ -2,4 +2,4 @@
 simple cms site using php mysql html
 
 Hello there!
-My name is Borko. I am newbee in web-development and would like to live long and prosper
+My name is Borko. I am newbee in web-development.
